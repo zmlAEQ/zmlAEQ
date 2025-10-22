@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Ziming Liu (刘子明) </h1>
+  <h1> Ziming Liu </h1>
   <p>
     <strong>Aequa Network Founder | Decentralized Systems Architect</strong>
   </p>
